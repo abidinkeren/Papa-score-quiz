@@ -1,0 +1,6 @@
+{
+  "name": "Papan Skor Kuis Cepat Tangkas",
+  "description": "Aplikasi papan skor interaktif cerdas cermat tingkat 7, 8, dan 9 untuk 6 kelompok dengan mode panggung proyektor, panel kendali juri, timer, dan efek audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
